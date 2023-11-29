@@ -17,4 +17,7 @@ let a=50 , b=90;
 
  console.log(a,b);
 
+// current dte 
+const date = new Date();
+console.log(date);
 
